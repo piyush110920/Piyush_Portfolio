@@ -1,5 +1,5 @@
 <h2 align="center">
-  Piyush's Portfolio Website - v2.0<br/>
+  Piyush's Portfolio Website <br/>
   <a href="https://piyush-portfolio-alpha-olive.vercel.app/" target="_blank">piyush.vercel.app</a>
 </h2>
 
@@ -11,9 +11,6 @@
 
 <p align="center">
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/piyush110920/Piyush_Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/piyush110920/Piyush_Portfolio?color=red&logo=github&style=for-the-badge)
 
