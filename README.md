@@ -1,49 +1,69 @@
-# 💼 Piyush's Portfolio
+<h2 align="center">
+  Piyush's Portfolio Website - v2.0<br/>
+  <a href="https://piyush-portfolio-alpha-olive.vercel.app/" target="_blank">piyush.vercel.app</a>
+</h2>
 
-A personal portfolio website built with modern web technologies to showcase my skills, projects, resume, and contact details in a clean, responsive, and user-friendly design.
+<div align="center">
+  <img alt="Demo" src="./screenshots/desktop.png" />
+</div>
 
-🚀 **Live Website**: [piyush-portfolio-alpha-olive.vercel.app](https://piyush-portfolio-alpha-olive.vercel.app/)
+<br/>
 
----
+<p align="center">
 
-## 📌 Features
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/piyush110920/Piyush_Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/piyush110920/Piyush_Portfolio?color=red&logo=github&style=for-the-badge)
 
-- Responsive design for both desktop and mobile devices.
-- Sections: About Me, Skills, Projects, Contact Form, Resume, and Social Links.
-- Smooth scroll and interactive UI.
-- Deployed on **Vercel** for fast and global delivery.
+</p>
 
----
-
-## 🖥️ Screenshots
-
-> 📸 **Desktop View**
-![Desktop View](screenshots/desktop.png)
-
-> 📱 **Mobile View**
-![Mobile View](screenshots/mobile.png)
-
-> *(Replace the above image paths with actual screenshots saved in a `screenshots` folder inside your repo)*
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript (React.js or Vanilla JS)
-- **Deployment**: Vercel
+<h3 align="center">
+    🔹
+    <a href="https://github.com/piyush110920/Piyush_Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/piyush110920/Piyush_Portfolio/issues">Request Feature</a>
+</h3>
 
 ---
 
-## 🧑‍💻 Run Locally
+## 📌 TL;DR
 
-Follow these steps to clone and run the project locally on your system.
+You can fork this repo to modify and create your own portfolio. Kindly give credit by linking back to [Piyush110920](https://github.com/piyush110920). Thanks!
 
-### Prerequisites
+---
 
-- Node.js and npm installed
-- Git installed
+## 🛠 Built With
 
-### Installation
+My personal portfolio that showcases my resume, GitHub projects, and technical skills.
+
+**Technologies Used:**
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- React.js *(if applicable)*  
+- Vite.js *(if applicable)*  
+- Vercel (Deployment)
+
+---
+
+## ✨ Features
+
+- 📖 Single-Page Layout  
+- 🎨 Clean and modern UI design  
+- 📱 Fully Responsive (Desktop and Mobile friendly)  
+- 📧 Contact form (if integrated)  
+- 🧭 Smooth scrolling navigation
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+### 🛠 Installation and Setup Instructions
 
 ```bash
 # Clone the repository
@@ -55,5 +75,5 @@ cd Piyush_Portfolio
 # Install dependencies
 npm install
 
-# Run the development server
+# Start the development server
 npm start
