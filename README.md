@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="./screenshots/desktop.png" />
+  <img alt="Demo" src="Images/WhatsApp Image 2025-05-10 at 06.25.13_a04fae35.jpg" />
 </div>
 
 <br/>
