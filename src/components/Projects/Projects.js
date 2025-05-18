@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import portfolioImg from "../../Assets/portfolio.png";
 import fitnessPlannerImg from "../../Assets/fitnessplanner.png";
+import repoAnalyzerImg from "../../Assets/repo-analyzer.png";
 
 
 function Projects() {
@@ -35,6 +36,16 @@ function Projects() {
                 description="A Streamlit-based web app to plan and track fitness goals. Offers personalized insights and interactive features to help users manage their fitness journey effectively."
                 ghLink="https://github.com/piyush110920/Fitness_Planner.git"
                 demoLink="https://fitnessplanner-dxh5zbc3us2uvhtedcyztc.streamlit.app/"
+              />
+            </Col>
+            <Col md={4} className="project-card">
+              <ProjectCard
+                imgPath={repoAnalyzerImg}
+                isBlog={false}
+                title="GitHub Repo Analyzer"
+                description="A web app to analyze GitHub repositories using React and Django. It provides detailed insights such as commit activity, issues, and contribution metrics. Developed as part of RSOC 2025."
+                ghLink="https://github.com/jaydhurve09/Caffine---Code-RSOC-2025.git"
+                demoLink="https://caffine-code-rsoc-2025.vercel.app/"
               />
             </Col>
           </Row>
