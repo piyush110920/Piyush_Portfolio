@@ -2,6 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
+import portfolioImg from "../../Assets/portfolio.png";
+import fitnessPlannerImg from "../../Assets/fitnessplanner.png";
+
 
 function Projects() {
   return (
@@ -14,7 +17,31 @@ function Projects() {
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
         </p>
-        {/* <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        {<Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+            <Col md={4} className="project-card">
+              <ProjectCard
+                imgPath={portfolioImg}
+                title="Piyush Portfolio"
+                description="A personal portfolio website showcasing my projects, skills, and resume. Built using React.js and deployed on Vercel with a sleek and responsive UI design."
+                ghLink="https://github.com/piyush110920/Piyush_Portfolio.git"
+                demoLink="https://piyush-portfolio-alpha-olive.vercel.app/"
+              />
+            </Col>
+
+            <Col md={4} className="project-card">
+              <ProjectCard
+                imgPath={fitnessPlannerImg}
+                title="Intelligence based Fitness Planner"
+                description="A Streamlit-based web app to plan and track fitness goals. Offers personalized insights and interactive features to help users manage their fitness journey effectively."
+                ghLink="https://github.com/piyush110920/Fitness_Planner.git"
+                demoLink="https://fitnessplanner-dxh5zbc3us2uvhtedcyztc.streamlit.app/"
+              />
+            </Col>
+          </Row>
+
+        
+        
+        /* <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
